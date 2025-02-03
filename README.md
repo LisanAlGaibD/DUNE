@@ -47,7 +47,7 @@
         <h2>Join the Fremen</h2>
         <p>Follow the prophecy and be part of the movement.</p>
         <a href="https://twitter.com/[YourAccount]" class="btn" target="_blank">Follow on X</a>
-        <a href="https://dexscreener.com/solana/[YourToken]" class="btn" target="_blank">View Chart</a>
+        <a href="https://dexscreener.com/solana/7xnyvsxxplrmqjdkxybbjhphvlyzqnl6wjywxfrjemna" class="btn" target="_blank">View Chart</a>
     </div>
 </body>
 </html>
