@@ -42,12 +42,12 @@
         
         <h2>The Token</h2>
         <p>Symbol: <strong>$DUNE</strong></p>
-        <p>Contract Address: <strong>[G4WVKRomY5TbPFfpC7LckrG46em7jVgqsvCpHC6B5meh]</strong></p>
+        <p>Contract Address: <strong>[Insert Contract Address]</strong></p>
         
         <h2>Join the Fremen</h2>
         <p>Follow the prophecy and be part of the movement.</p>
-        <a href="https://x.com/Lisan_Al_Gaib_D" class="btn" target="_blank">Follow on X</a>
-        <a href="https://dexscreener.com/solana/7xnyvsxxplrmqjdkxybbjhphvlyzqnl6wjywxfrjemna" class="btn" target="_blank">View Chart</a>
+        <a href="https://twitter.com/[YourAccount]" class="btn" target="_blank">Follow on X</a>
+        <a href="https://dexscreener.com/solana/[YourToken]" class="btn" target="_blank">View Chart</a>
     </div>
 </body>
 </html>
